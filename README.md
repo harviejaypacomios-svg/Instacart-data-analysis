@@ -7,6 +7,13 @@
 This project explores grocery shopping behavior using the Instacart Online Grocery Basket Analysis dataset. The goal is to turn large-scale transaction data into clear, actionable insights about customer purchasing patterns, product demand, repeat purchases, and category performance.
 
 The workflow covers data preparation, quality checks, exploratory analysis, and business interpretation. Tableau is included in the visualization toolset; a project-specific dashboard link will be added when available.
+## Dashboard Design Preview
+
+![Instacart Grocery Insights Dashboard](dashboard/Instacart%20Grocery%20Insights%20Dashboard.png)
+
+*Conceptual dashboard design preview.
+Final metrics and interactive Tableau dashboard
+are being validated.*
 
 ## Business Questions
 
